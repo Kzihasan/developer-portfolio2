@@ -1,0 +1,93 @@
+/* goole font import code */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    margin: 0;
+    font-family: poppins;
+}
+
+.welcome {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+
+
+.container {
+    padding-top: 50px;
+    display: flex; 
+    margin: auto;
+    margin-bottom: 100px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.box {
+    width: 50%;
+    /* padding: 0 20px;     */
+    /* padding-left: 5%;
+    padding-right: 5%; */
+}
+
+h1 {
+    font-size: 48px;
+    
+}
+
+.speacial {
+    color: orange;
+}
+
+h3 {
+    color: orange;
+}
+
+img {
+    width: 100%;
+}
+
+.pad1 {
+    padding-right: 5%;
+
+}
+
+.pad2 {
+    padding-left: 5%;
+}
+
+.btn {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(76, 199, 131), rgb(193, 210, 221));
+    color: rgb(31, 31, 29);
+    padding: 5px 15px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px grey;
+}
+
+.dream {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.container1 {
+    padding-top: 50px;
+    display: flex; 
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.experience-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 15px 15px 30px lightgray;
+    padding: 20px;
+}
+
+footer p {
+    text-align: center;
+}
+
+
