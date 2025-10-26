@@ -65,10 +65,10 @@ img {
     text-transform: uppercase;
 }
 
-/* .btn:hover {
-    background-color: black;
-    color: white;
-} */
+.btn:hover {
+    color: black;
+    font-size: 18px;
+}
 
 .dream {
     background-image: url(images/dream-bg.png);
